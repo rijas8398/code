@@ -1,0 +1,9 @@
+'''def reverse(s):
+    print("original string is",s)
+    str=''
+    for ele in s:
+        str=ele+str
+    print("reversed string is",str)
+
+reverse('kottumala')'''
+
