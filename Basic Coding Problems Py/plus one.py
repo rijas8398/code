@@ -5,6 +5,7 @@ n=len(digits)
     continue
 
 digits[ele]+=1
-print(digits
-      dxsxxZzaz
-      sx
+print(digits)
+mkr mkr mkr
+
+
